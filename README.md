@@ -23,27 +23,21 @@ Welcome to the **Music Streaming Website**, a platform built using Laravel where
 ## Setup and Installation
 
 ### Prerequisites
-- PHP >= 8.0
+- PHP >= 7.3
 - Composer
 - MySQL
-- Node.js & NPM
 
 ### Installation Steps
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/music-streaming-website.git
-    cd music-streaming-website
+    git clone https://github.com/passionate-soft-dev/Music-Streaming-Website.git
+    cd Music-Streaming-Website
     ```
 
 2. **Install Dependencies**:
     - Install PHP dependencies:
       ```bash
       composer install
-      ```
-    - Install NPM dependencies:
-      ```bash
-      npm install && npm run dev
-      ```
 
 3. **Setup Environment**:
     - Create a `.env` file by copying the example:
